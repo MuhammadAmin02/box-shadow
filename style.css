@@ -1,0 +1,173 @@
+header button{
+    display: flex;
+    align-items: center;
+    background-color: #009FF5B5;
+    border: 3px solid #009FF5B5;
+    border-radius: 20px;
+}
+header div{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 600px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bir{
+    margin-right: 10px;
+}
+.box {
+    background-color: yellow;
+    border: 5px solid #5A5555;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 506px;
+    height: 42px;
+    margin: 0 auto;
+    border-radius: 30px;
+
+}
+
+h1 {
+    color: #5A5555;
+    width: 361px;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 350px; */
+}
+
+.box1 {
+    box-shadow: 10px 10px 10px gray;
+
+}
+
+.box2 {
+    box-shadow: 10px 10px 10px gray;
+}
+
+.box3 {
+    box-shadow: 10px 10px 10px gray;
+}
+.container{
+    background-image:url(./image\ 1.png) ;
+}
+
+.box1 div{
+    border: 1px solid ;
+}
+.box4{
+    margin-top: 300px;
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+.container2 h1 {
+margin: 0 auto;
+}
+.container2{
+    background-color: black;
+    
+}
+.gt p{
+   width: 663px;
+   color: white;
+   margin-left: 90px;
+   
+}
+.gt{
+display: flex;
+}
+.gt img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.gt button{
+    width: 278px;
+    height: 61px;
+    background-color: gray;
+    box-shadow: -2px 10px 10px gray;
+    margin: 0 auto;
+}
+
+
+.house{
+    margin-left: 690px;
+    width: 278px;
+    height: 61px;
+    background-color: #5A5555;
+    color: white;
+    box-shadow: -5px 10px 10px white;
+}
+
+.cert p{
+    width: 663px;
+    color: white;
+    margin-left: 90px;
+    
+ }
+ .cert{
+ display: flex;
+ }
+ .cert img{
+     margin-left: 20px;
+     margin-top: 20px;
+ }
+ .hous{
+     width: 278px;
+     height: 61px;
+     background-color: yellow;
+     box-shadow: -2px 10px 10px white;
+     margin: 0 auto;
+     font-weight: 700;
+     margin-left: 85px;
+
+ }
+ footer .klop{
+    display: flex;
+    justify-content: space-around;
+    width: 550px;
+
+ }
+.klop{
+width: 550px;
+height: 40px;
+display: flex;
+justify-content: space-between;
+}
+
+footer{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between;
+    height: 158px;
+    align-items: center;
+ }
+
+footer img{
+    width: 101px;
+    height: 55px;
+}
+.img{
+    margin-left: 15px;
+}
+.as{
+    height: 40px;
+    width: 40px;
+}
+.df{
+    height: 40px;
+    width: 40px;
+}
+.gh{
+    height: 40px;
+    width: 40px;
+}
